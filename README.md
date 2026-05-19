@@ -34,9 +34,36 @@
 
 ###
 
+
+
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=jcdev01&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=pt-br&hide_border=false" height="150" alt="stats graph" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=jcdev01&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph" />
+
+  <!-- PROFILE DETAILS (principal) -->
+  <img 
+    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcdev01&theme=tokyonight" 
+    width="95%" 
+  />
+
+  <br><br>
+
+  <!-- GRID SECUNDÁRIO -->
+  <table>
+    <tr>
+      <td align="center">
+        <img 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jcdev01&theme=tokyonight" 
+          height="180"
+        />
+      </td>
+      <td align="center">
+        <img 
+          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jcdev01&theme=tokyonight" 
+          height="180"
+        />
+      </td>
+    </tr>
+  </table>
+
 </div>
 
 
@@ -74,24 +101,52 @@
 
 <h2 align="left">🚀 Meus Projetos</h2>
 
-###
 
-<div align="center">
-  <a href="https://github.com/jcdev01/Locadora">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jcdev01&repo=Locadora&theme=dracula" alt="Locadora" />
-  </a>
-  <a href="https://github.com/jcdev01/Projeto-java-web-spring">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jcdev01&repo=Projeto-java-web-spring&theme=dracula" alt="Projeto Java Web Spring" />
-  </a>
-  <a href="https://github.com/jcdev01/Login-backend-API">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jcdev01&repo=Login-backend-API&theme=dracula" alt="Login Backend API" />
-  </a>
-  <a href="https://github.com/jcdev01/Mare-Burguer-cardapio-old">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=jcdev01&repo=Mare-Burguer-cardapio-old&theme=dracula" alt="Mare Burguer Cardapio" />
-  </a>
-</div>
 
-###
+
+<table align="center">
+  <tr>
+    <td width="50%">
+      <h3 align="center">Locadora</h3>
+      <p align="center">Sistema de locadora desktop em Python com interface gráfica moderna usando CustomTkinter.</p>
+      <p align="center">
+        <a href="https://github.com/jcdev01/Locadora" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório Locadora" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Login Backend API</h3>
+      <p align="center">API backend desenvolvida em Java para autenticação e estrutura de login.</p>
+      <p align="center">
+        <a href="https://github.com/jcdev01/Login-backend-API" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório Login Backend API" />
+        </a>
+      </p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%">
+      <h3 align="center">Projeto Java Web Spring</h3>
+      <p align="center">Projeto web em Java com Spring, focado em backend e arquitetura REST.</p>
+      <p align="center">
+        <a href="https://github.com/jcdev01/Projeto-java-web-spring" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório Projeto Java Web Spring" />
+        </a>
+      </p>
+    </td>
+    <td width="50%">
+      <h3 align="center">Login Frontend</h3>
+      <p align="center">Interface de login completa  consumindo a minha propia API</p>
+      <p align="center">
+        <a href="https://github.com/jcdev01/Login-frontend" target="_blank">
+          <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório Portifolio" />
+        </a>
+      </p>
+    </td>
+  </tr>
+</table>
+
 
 <h2 align="left">🌐 Redes Sociais</h2>
 
@@ -112,10 +167,11 @@
   </a>
 </div>
 
-###
-
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcdev01/jcdev01/output/pacman-contribution-graph-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcdev01/jcdev01/output/pacman-contribution-graph.svg">
   <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jcdev01/jcdev01/output/pacman-contribution-graph.svg">
 </picture>
+
+###
+
