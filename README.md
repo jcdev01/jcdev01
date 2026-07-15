@@ -38,11 +38,19 @@
 
 <div align="center">
 
+
+
+###
+
+<div align="center">
+
   <!-- PROFILE DETAILS (principal) -->
-  <img 
-    src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=jcdev01&theme=tokyonight" 
-    width="95%" 
-  />
+  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+    <img 
+      src="https://raw.githubusercontent.com/jcdev01/jcdev01/main/profile-summary-card-output/github_dark/0-profile-details.svg" 
+      width="95%" 
+    />
+  </a>
 
   <br><br>
 
@@ -50,16 +58,38 @@
   <table>
     <tr>
       <td align="center">
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=jcdev01&theme=tokyonight" 
-          height="180"
-        />
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img 
+            src="https://raw.githubusercontent.com/jcdev01/jcdev01/main/profile-summary-card-output/github_dark/3-stats.svg" 
+            height="180"
+          />
+        </a>
       </td>
       <td align="center">
-        <img 
-          src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=jcdev01&theme=tokyonight" 
-          height="180"
-        />
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img 
+            src="https://raw.githubusercontent.com/jcdev01/jcdev01/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" 
+            height="180"
+          />
+        </a>
+      </td>
+    </tr>
+    <tr>
+      <td align="center">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img 
+            src="https://raw.githubusercontent.com/jcdev01/jcdev01/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" 
+            height="180"
+          />
+        </a>
+      </td>
+      <td align="center">
+        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
+          <img 
+            src="https://raw.githubusercontent.com/jcdev01/jcdev01/main/profile-summary-card-output/github_dark/4-productive-time.svg" 
+            height="180"
+          />
+        </a>
       </td>
     </tr>
   </table>
