@@ -14,7 +14,7 @@
       <h2>🧑‍💻 Sobre mim</h2>
       <p>
         Olá! Me chamo <strong>Jairo Costa do Nascimento</strong>, tenho 19 anos e sou natural de Maragogi - AL. <br/>
-        Atualmente estou no 3° período de <strong>Ciência da Computação</strong>. <br/>
+        Atualmente estou no 4° período de <strong>Ciência da Computação</strong>. <br/>
         Sou apaixonado por tecnologia e estou em busca de uma oportunidade para entrar no mercado de trabalho. <br/><br/>
         🎯 Focado em desenvolvimento <strong>Backend</strong> com Java e Spring Boot<br/>
         📍 Maragogi, Alagoas - Brasil<br/>
@@ -36,7 +36,6 @@
 
 
 
-<div align="center">
 
 
 
