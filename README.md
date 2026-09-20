@@ -1,206 +1,170 @@
 <div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=jcdev01.jcdev01" alt="visitors" />
+
+<img src="https://raw.githubusercontent.com/jcdev01/jcdev01/main/assets/hero.svg" width="100%" alt="Jairo Costa — Backend Developer em formação. Java, Spring Boot, Python e APIs REST" />
+
+<br/>
+
+**Construindo APIs e aprendendo a cada projeto — do código à infraestrutura.**
+
+<a href="https://www.linkedin.com/in/jairo-costa-ab4a13346/"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" /></a>
+<a href="mailto:Jairocostanascimento@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email" /></a>
+
 </div>
 
-###
+## Sobre mim
 
-<h1 align="left">Hi 👋! My name is Jairo and desenvolvedor backend</h1>
+Sou **Jairo Costa do Nascimento**, tenho 19 anos e moro em Maragogi, Alagoas. Estudo **Ciência da Computação** (4º período) e meu foco é **desenvolvimento backend**: Java, Spring Boot, APIs REST, arquitetura de aplicações e microsserviços.
 
-###
+Também estudo Python e FastAPI e me interesso por infraestrutura, servidores, redes e cybersecurity. Estou aberto a novas oportunidades na área de tecnologia.
+
+## Tecnologias
 
 <table>
   <tr>
-    <td valign="middle" width="60%">
-      <h2>🧑‍💻 Sobre mim</h2>
-      <p>
-        Olá! Me chamo <strong>Jairo Costa do Nascimento</strong>, tenho 19 anos e sou natural de Maragogi - AL. <br/>
-        Atualmente estou no 4° período de <strong>Ciência da Computação</strong>. <br/>
-        Sou apaixonado por tecnologia e estou em busca de uma oportunidade para entrar no mercado de trabalho. <br/><br/>
-        🎯 Focado em desenvolvimento <strong>Backend</strong> com Java e Spring Boot<br/>
-        📍 Maragogi, Alagoas - Brasil<br/>
-        📚 Atualmente estudando microsserviços e arquitetura REST<br/>
-        🚀 Aberto a novas oportunidades
-      </p>
+    <td width="170"><b>Backend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=java,spring,python,fastapi,tomcat" alt="Java, Spring Boot, Python, FastAPI e Apache Tomcat" /><br/>
+      <sub>Java · Spring Boot · Python · FastAPI · Uvicorn · API REST · Apache Tomcat</sub>
     </td>
-    <td valign="middle" width="40%" align="center">
-      <img src="https://camo.githubusercontent.com/d972b3fdd96f5bcda3cb22db4be78c78db577b6a4aa58d779523cc1f598f1e8d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966" height="200" />
+  </tr>
+  <tr>
+    <td><b>Bancos de dados</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postgres,mysql,sqlite" alt="PostgreSQL, MySQL e SQLite" /><br/>
+      <sub>PostgreSQL · MySQL · SQLite</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Frontend</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=html,css,js" alt="HTML, CSS e JavaScript" /><br/>
+      <sub>HTML · CSS · JavaScript</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>DevOps &amp; Infraestrutura</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=docker,linux,kali" alt="Docker, Linux e Kali Linux" /><br/>
+      <sub>Docker · Linux · Kali Linux · Virtual Machines (VMs)</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>IDEs &amp; Desenvolvimento</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=idea,pycharm,vscode" alt="IntelliJ IDEA, PyCharm e Visual Studio Code" /><br/>
+      <sub>IntelliJ IDEA · PyCharm · Visual Studio Code · Antigravity</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>API &amp; Testes</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=postman" alt="Postman" /><br/>
+      <sub>Postman</sub>
+    </td>
+  </tr>
+  <tr>
+    <td><b>Versionamento</b></td>
+    <td>
+      <img src="https://skillicons.dev/icons?i=git,github" alt="Git e GitHub" /><br/>
+      <sub>Git · GitHub</sub>
     </td>
   </tr>
 </table>
 
-###
+## Experiência
 
-<h2 align="left">📊 Estatísticas</h2>
+**Estagiário de TI**
 
-###
+- Suporte técnico
+- Infraestrutura
+- Servidores
+- Redes
+- Resolução de problemas técnicos
 
+## Projetos
 
+<table>
+  <tr>
+    <td>
+      <h3><a href="https://github.com/jcdev01/hotel-CheckQ">hotel-CheckQ</a> &nbsp;<img src="https://img.shields.io/badge/em_destaque-0e7490?style=flat-square" alt="Projeto em destaque" /></h3>
+      <p>Sistema para gerenciamento de fila e check-in de hóspedes, com backend em Python e FastAPI e interface web para uso da recepção. Reúne backend, banco de dados e frontend em uma única aplicação.</p>
+      <p><code>Python</code> <code>FastAPI</code> <code>Uvicorn</code> <code>SQLite</code> <code>HTML</code> <code>CSS</code> <code>JavaScript</code> <code>API REST</code></p>
+      <p><a href="https://github.com/jcdev01/hotel-CheckQ">Ver código no GitHub</a></p>
+    </td>
+  </tr>
+</table>
 
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jcdev01/Login-backend-API">Login Backend API</a></h3>
+      <p>API desenvolvida em Java para autenticação e estrutura de login.</p>
+      <p><code>Java</code> <code>Spring Boot</code> <code>API REST</code> <code>PostgreSQL</code> <code>JWT</code></p>
+      <p><a href="https://github.com/jcdev01/Login-backend-API">Ver código no GitHub</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jcdev01/Login-frontend">Login Frontend</a></h3>
+      <p>Interface de login desenvolvida em HTML, CSS e JavaScript, consumindo a minha própria API.</p>
+      <p><code>HTML</code> <code>CSS</code> <code>JavaScript</code></p>
+      <p><a href="https://github.com/jcdev01/Login-frontend">Ver código no GitHub</a></p>
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jcdev01/Projeto-java-web-spring">Projeto Java Web Spring</a></h3>
+      <p>Projeto web em Java com Spring, focado em backend, APIs REST e organização da aplicação.</p>
+      <p><code>Java</code> <code>Spring Boot</code> <code>API REST</code> <code>PostgreSQL</code></p>
+      <p><a href="https://github.com/jcdev01/Projeto-java-web-spring">Ver código no GitHub</a></p>
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/jcdev01/Locadora">Locadora</a></h3>
+      <p>Sistema desktop de locadora desenvolvido em Python com interface gráfica.</p>
+      <p><code>Python</code> <code>CustomTkinter</code></p>
+      <p><a href="https://github.com/jcdev01/Locadora">Ver código no GitHub</a></p>
+    </td>
+  </tr>
+</table>
 
+<p align="right"><a href="https://github.com/jcdev01?tab=repositories">Ver todos os repositórios</a></p>
 
+## Currently Learning
 
-###
+<table>
+  <tr>
+    <td width="50%" valign="top">
+      <b>Backend e arquitetura</b><br/>
+      Microsserviços · Arquitetura REST · Spring Boot · APIs
+    </td>
+    <td width="50%" valign="top">
+      <b>Infraestrutura e segurança</b><br/>
+      Docker · Infraestrutura · Cybersecurity
+    </td>
+  </tr>
+</table>
+
+## GitHub Stats
+
+<p align="center">
+  <img src="https://raw.githubusercontent.com/jcdev01/jcdev01/main/profile-summary-card-output/github_dark/3-stats.svg" width="49%" alt="Estatísticas do GitHub de jcdev01" />
+  <img src="https://raw.githubusercontent.com/jcdev01/jcdev01/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" width="49%" alt="Linguagens mais usadas nos commits de jcdev01" />
+</p>
+
+## Contribuições
 
 <div align="center">
-
-  <!-- PROFILE DETAILS (principal) -->
-  <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-    <img 
-      src="https://raw.githubusercontent.com/jcdev01/jcdev01/main/profile-summary-card-output/github_dark/0-profile-details.svg" 
-      width="95%" 
-    />
-  </a>
-
-  <br><br>
-
-  <!-- GRID SECUNDÁRIO -->
-  <table>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-          <img 
-            src="https://raw.githubusercontent.com/jcdev01/jcdev01/main/profile-summary-card-output/github_dark/3-stats.svg" 
-            height="180"
-          />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-          <img 
-            src="https://raw.githubusercontent.com/jcdev01/jcdev01/main/profile-summary-card-output/github_dark/1-repos-per-language.svg" 
-            height="180"
-          />
-        </a>
-      </td>
-    </tr>
-    <tr>
-      <td align="center">
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-          <img 
-            src="https://raw.githubusercontent.com/jcdev01/jcdev01/main/profile-summary-card-output/github_dark/2-most-commit-language.svg" 
-            height="180"
-          />
-        </a>
-      </td>
-      <td align="center">
-        <a href="https://github.com/vn7n24fzkq/github-profile-summary-cards">
-          <img 
-            src="https://raw.githubusercontent.com/jcdev01/jcdev01/main/profile-summary-card-output/github_dark/4-productive-time.svg" 
-            height="180"
-          />
-        </a>
-      </td>
-    </tr>
-  </table>
-
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcdev01/jcdev01/output/pacman-contribution-graph-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcdev01/jcdev01/output/pacman-contribution-graph.svg">
+    <img alt="Gráfico de contribuições do GitHub no estilo Pac-Man" src="https://raw.githubusercontent.com/jcdev01/jcdev01/output/pacman-contribution-graph.svg">
+  </picture>
 </div>
 
+## Vamos conversar?
 
-###
+Se quiser trocar uma ideia sobre backend, projetos ou infraestrutura, ou falar sobre oportunidades, é só chamar.
 
-<h2 align="left">🤖 Linguagens e Tecnologias</h2>
+<a href="https://www.linkedin.com/in/jairo-costa-ab4a13346/"><img src="https://img.shields.io/badge/LinkedIn-1e293b?style=for-the-badge&logo=linkedin&logoColor=22d3ee" alt="LinkedIn" /></a>
+<a href="mailto:Jairocostanascimento@gmail.com"><img src="https://img.shields.io/badge/Email-1e293b?style=for-the-badge&logo=gmail&logoColor=22d3ee" alt="Email" /></a>
+<a href="https://github.com/jcdev01"><img src="https://img.shields.io/badge/GitHub-1e293b?style=for-the-badge&logo=github&logoColor=22d3ee" alt="GitHub" /></a>
 
-###
-
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="javascript logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="30" alt="css logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/intellij/intellij-original.svg" height="30" alt="intellij logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/spring/spring-original.svg" height="30" alt="spring logo" />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tomcat/tomcat-original.svg" height="30" alt="tomcat logo" />
-</div>
-
-###
-
-<h2 align="left">🚀 Meus Projetos</h2>
-
-
-
-
-<table align="center">
-  <tr>
-    <td width="50%">
-      <h3 align="center">Locadora</h3>
-      <p align="center">Sistema de locadora desktop em Python com interface gráfica moderna usando CustomTkinter.</p>
-      <p align="center">
-        <a href="https://github.com/jcdev01/Locadora" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório Locadora" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Login Backend API</h3>
-      <p align="center">API backend desenvolvida em Java para autenticação e estrutura de login.</p>
-      <p align="center">
-        <a href="https://github.com/jcdev01/Login-backend-API" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório Login Backend API" />
-        </a>
-      </p>
-    </td>
-  </tr>
-  <tr>
-    <td width="50%">
-      <h3 align="center">Projeto Java Web Spring</h3>
-      <p align="center">Projeto web em Java com Spring, focado em backend e arquitetura REST.</p>
-      <p align="center">
-        <a href="https://github.com/jcdev01/Projeto-java-web-spring" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório Projeto Java Web Spring" />
-        </a>
-      </p>
-    </td>
-    <td width="50%">
-      <h3 align="center">Login Frontend</h3>
-      <p align="center">Interface de login completa  consumindo a minha propia API</p>
-      <p align="center">
-        <a href="https://github.com/jcdev01/Login-frontend" target="_blank">
-          <img src="https://img.shields.io/badge/Ver%20repositorio-181717?style=for-the-badge&logo=github&logoColor=white" alt="Ver repositório Portifolio" />
-        </a>
-      </p>
-    </td>
-  </tr>
-</table>
-
-
-<h2 align="left">🌐 Redes Sociais</h2>
-
-###
-
-<div align="left">
-  <a href="https://www.instagram.com/jairocosta_07/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo" />
-  </a>
-  <a href="mailto:Jairocostanascimento@gmail.com" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo" />
-  </a>
-  <a href="https://www.linkedin.com/in/jairo-costa-ab4a13346/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
-  </a>
-  <a href="https://wa.me/+5582991797419" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Whatsapp&logo=whatsapp&label=&color=25D366&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="whatsapp logo" />
-  </a>
-</div>
-
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/jcdev01/jcdev01/output/pacman-contribution-graph-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/jcdev01/jcdev01/output/pacman-contribution-graph.svg">
-  <img alt="pacman contribution graph" src="https://raw.githubusercontent.com/jcdev01/jcdev01/output/pacman-contribution-graph.svg">
-</picture>
-
-###
-
+<sub>Também estou no <a href="https://www.instagram.com/jairocosta_07/">Instagram</a>.</sub>
